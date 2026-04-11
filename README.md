@@ -66,6 +66,8 @@ El portafolio fue publicado exitosamente en GitHub Pages, cumpliendo con los req
 
 _ Cerificado Iniciacion al desarrollo con IA https://github.com/cristianrvenega2001-dot/Certificados/blob/main/Certificado-Cristian-Venega-Gomez-oclfeame.pdf
 
-_ Certificado Ciberseguridad y Hacking etico https://github.com/cristianrvenega2001-dot/Certificados/blob/main/Certificado-Cristian-Venega-apam9rhd_copia.pdf
+_ Certificado Ciberseguridad y Hacking Etico https://github.com/cristianrvenega2001-dot/Certificados/blob/main/Certificado-Cristian-Venega-apam9rhd_copia.pdf
+
+_ Certificado Marketing Digital con IA  https://github.com/cristianrvenega2001-dot/Certificados/blob/main/Certificado-Cristian-Venega-ficghxis_copia.pdf
 
 
