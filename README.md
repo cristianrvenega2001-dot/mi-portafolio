@@ -64,7 +64,7 @@ El portafolio quedó publicado en la siguiente dirección:
 El portafolio fue publicado exitosamente en GitHub Pages, cumpliendo con los requisitos de la actividad práctica y quedando disponible para ser compartido con la comunidad.
 
 
-_ Cerificado Iniciacion al desarrolo con IA https://github.com/cristianrvenega2001-dot/Certificados/blob/main/Certificado-Cristian-Venega-apam9rhd_copia.pdf
+_ Cerificado Iniciacion al desarrollo con IA https://github.com/cristianrvenega2001-dot/Certificados/blob/main/Certificado-Cristian-Venega-Gomez-oclfeame.pdf
 
 _ Certificado Ciberseguridad y Hacking etico https://github.com/cristianrvenega2001-dot/Certificados/blob/main/Certificado-Cristian-Venega-apam9rhd_copia.pdf
 
