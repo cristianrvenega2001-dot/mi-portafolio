@@ -70,4 +70,6 @@ _ Certificado Ciberseguridad y Hacking Etico https://github.com/cristianrvenega2
 
 _ Certificado Marketing Digital con IA  https://github.com/cristianrvenega2001-dot/Certificados/blob/main/Certificado-Cristian-Venega-ficghxis_copia.pdf
 
+_ Certificado SEO para IA https://github.com/cristianrvenega2001-dot/Certificados/blob/main/Certificado-SEO-IA-Google.pdf
+
 
